@@ -1,0 +1,19 @@
+{
+  "latestVersion": "1.2.1",
+  "installer": {
+    "sizeBytes": 926420027,
+    "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Farmughan-zeb%2FVidnets-Cosystems-Releases%2Freleases%2Fdownload%2Fv1.2.1%2FVidzeo-CoSystems-1.2.1-Setup.exe",
+    "version": "1.2.1",
+    "sha256": "9969290962645d2095cfd594e86e0436a52b8cb09b8dd0d675cc2585158e1011"
+  },
+  "changelog": [
+    "Complete Windows x64 installer with CMS, ScriptIT, Pikgen, Vidnets and UploadIT runtimes.",
+    "Pikgen profile-limit import and owned-browser cleanup fixed; one shared interactive browser profile remains enforced.",
+    "Admin and partner channel controls, measured title-format research and saved model routing updates.",
+    "Application Updates checks public metadata and opens approved GitHub installer downloads without a shared embedded token.",
+    "Application and engine archive integrity enabled; local keys, cookies, owner data and admin development folders excluded.",
+    "Unsigned Windows build. Install when production is idle; preserve your existing workspace.",
+    "Docker backend build and isolated non-root runtime verified in private Linux CI. Windows GUI and IX/browser integrations remain native."
+  ],
+  "releaseDate": "2026-11-04T23:55:58.089Z"
+}
